@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=AreYouARobot
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=question\ time
+comment2.target=void\ delayPrint(java.lang.String,\ java.util.concurrent.TimeUnit)
+numComments=3
